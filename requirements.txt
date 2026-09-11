@@ -8,4 +8,6 @@ lxml
 TgCrypto
 libtorrent
 ffmpeg
-
+python-dotenv
+aria2c
+ffmpeg
